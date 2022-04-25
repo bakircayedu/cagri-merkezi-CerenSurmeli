@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ÖdevBaslangic/1.0.0": {
+        "runtime": {
+          "ÖdevBaslangic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ÖdevBaslangic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

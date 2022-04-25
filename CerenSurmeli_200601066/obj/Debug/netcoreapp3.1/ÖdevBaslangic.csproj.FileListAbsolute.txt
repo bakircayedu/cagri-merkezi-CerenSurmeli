@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ÖdevBaslangic\bin\Debug\netcoreapp3.1\ÖdevBaslangic.exe
+C:\Users\User\source\repos\ÖdevBaslangic\bin\Debug\netcoreapp3.1\ÖdevBaslangic.deps.json
+C:\Users\User\source\repos\ÖdevBaslangic\bin\Debug\netcoreapp3.1\ÖdevBaslangic.runtimeconfig.json
+C:\Users\User\source\repos\ÖdevBaslangic\bin\Debug\netcoreapp3.1\ÖdevBaslangic.runtimeconfig.dev.json
+C:\Users\User\source\repos\ÖdevBaslangic\bin\Debug\netcoreapp3.1\ÖdevBaslangic.dll
+C:\Users\User\source\repos\ÖdevBaslangic\bin\Debug\netcoreapp3.1\ÖdevBaslangic.pdb
+C:\Users\User\source\repos\ÖdevBaslangic\obj\Debug\netcoreapp3.1\ÖdevBaslangic.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ÖdevBaslangic\obj\Debug\netcoreapp3.1\ÖdevBaslangic.Form1.resources
+C:\Users\User\source\repos\ÖdevBaslangic\obj\Debug\netcoreapp3.1\ÖdevBaslangic.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ÖdevBaslangic\obj\Debug\netcoreapp3.1\ÖdevBaslangic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ÖdevBaslangic\obj\Debug\netcoreapp3.1\ÖdevBaslangic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ÖdevBaslangic\obj\Debug\netcoreapp3.1\ÖdevBaslangic.AssemblyInfo.cs
+C:\Users\User\source\repos\ÖdevBaslangic\obj\Debug\netcoreapp3.1\ÖdevBaslangic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ÖdevBaslangic\obj\Debug\netcoreapp3.1\ÖdevBaslangic.dll
+C:\Users\User\source\repos\ÖdevBaslangic\obj\Debug\netcoreapp3.1\ÖdevBaslangic.pdb
+C:\Users\User\source\repos\ÖdevBaslangic\obj\Debug\netcoreapp3.1\ÖdevBaslangic.genruntimeconfig.cache
